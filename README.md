@@ -1,4 +1,4 @@
-# ANAL
+# A.N.A.L
 Automatic Number-Plate Analysis Legend
 Code for my Automatic Number-Plate Analysis Legend (ANAL) software for the Asus Tinker Edge T
 
