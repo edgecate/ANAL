@@ -1,6 +1,6 @@
 # ANAL
-AI Number-Plate Analytics Link
-Code for my AI Number-Plate Analytics Link (ANAL) software for the Asus Tinker Edge T
+Automatic Number-Plate Analysis Legend
+Code for my Automatic Number-Plate Analysis Legend (ANAL) software for the Asus Tinker Edge T
 
 This is going to be a WIP for awhile.
 I can't begin to list down all the dependencies and packages required to make this work because...I made this over 2 years ago, revisited the code, and for the life of me, cannot get it work properly.
