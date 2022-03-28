@@ -10,4 +10,4 @@ https://youtu.be/uwnG50Hatw0
 
 The full walkthrough from coding to car installation can be found here:
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/6xklN4iiA0Q/0.jpg)](http://www.youtube.com/watch?v=6xklN4iiA0Q "[Python ANPR Course] Install Automatic Number Plate Recognition In Your Car!")
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/6xklN4iiA0Q/0.jpg)](http://www.youtube.com/watch?v=6xklN4iiA0Q "Python ANPR Course Install Automatic Number Plate Recognition In Your Car!")
