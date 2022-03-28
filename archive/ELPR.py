@@ -253,8 +253,8 @@ class Ui_MainWindow(QtWidgets.QMainWindow, QtCore.QThread):
         MainWindow.setObjectName("MainWindow")
         MainWindow.setWindowFlags(QtCore.Qt.WindowStaysOnTopHint)
         MainWindow.setGeometry(0, 30, 840, 480) # x,y,w,h
-        icon = QtGui.QIcon()
-        icon.addPixmap(QtGui.QPixmap("e_logo_no_bg_icon.ico"), QtGui.QIcon.Normal, QtGui.QIcon.On)
+        #icon = QtGui.QIcon()
+        #icon.addPixmap(QtGui.QPixmap("e_logo_no_bg_icon.ico"), QtGui.QIcon.Normal, QtGui.QIcon.On)
         MainWindow.setWindowIcon(icon)
         self.centralwidget = QtWidgets.QWidget(MainWindow)
         self.centralwidget.setObjectName("centralwidget")
